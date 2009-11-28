@@ -3,9 +3,9 @@
   "version": "1.0",
   "description": "Click to wobble an oppai",
   "icons": {
-    "128": "icon110.png"
-    "64": "icon110.png"
-    "32": "icon110.png"
+    "128": "icon110.png",
+    "64": "icon110.png",
+    "32": "icon110.png",
     "16": "icon110.png"
   },
   "browser_action": {
